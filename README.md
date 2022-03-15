@@ -12,6 +12,7 @@
 >1. VS Code - To write HTML,CSS and JavaScript code. 
 >2. GitHub Desktop - To maintain the Git repository. 
 >3. Microsoft Edge,Google Chrome & Mozilla Firefox - To check the functionality and output of the code.
+>4. Postman - To check api's during developing phase.
 
 ***Languages:***
 >We wrote the code in the following languages: 
@@ -20,7 +21,12 @@
 >3. JavaScript - We used JavaScript to give dynamic and functional abilities to our webpages. 
 >4. CLI - We used CLI to commit changes to our repository.
 
-This is a collaborative project. We have worked on this project and submitted it for our UNIT-3 Evaluation in Masai School.
+***Database:***
+>1.MongoDB -to store data.
+>2.MongoDB Compass.
+>3.MongoDB Atlas. 
+
+This is a collaborative project. We have worked on this project and submitted it for our UNIT-3 and worked on backend part for our UNIT-4 Evaluation in Masai School.
 
 :star:***Team_Members:***:star: 
   >1. Aman Raj
