@@ -29,8 +29,14 @@
 
 This is a collaborative project. We have worked on this project and submitted it for our UNIT-3 and worked on backend part for our UNIT-4 Evaluation in Masai School.
 
+ Landing Page
 <img src="https://miro.medium.com/max/875/1*7oJiRYjb_79cQUc7WAkE5Q.png" alt="">
+
+ SignUp Page
 <img src="https://miro.medium.com/max/875/1*8013OAatmB-b9NGcd3SmAA.png" alt="">
+
+ Payment Page
+<img src="https://miro.medium.com/max/875/1*nGiKh_aiU-BqxxfhqCelMw.png" alt="">
 
 
 :star:***Team_Members:***:star: 
