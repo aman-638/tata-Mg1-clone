@@ -24,7 +24,9 @@
 >1. HTML - We used HTML to give the basic structure to our webpages. 
 >2. CSS - We used CSS to give style properties to our webpages. 
 >3. JavaScript - We used JavaScript to give dynamic and functional abilities to our webpages. 
->4. CLI - We used CLI to commit changes to our repository.
+>4.express.js - To communicate with database.
+>5.mongoDb - To store data.
+>6. CLI - We used CLI to commit changes to our repository.
 
 
 This is a collaborative project. We have worked on this project and submitted it for our UNIT-3 and worked on backend part for our UNIT-4 Evaluation in Masai School.
